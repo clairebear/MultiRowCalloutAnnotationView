@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/grgcombs/MultiRowCalloutAnnotationView"
   s.license      = 'Creative Commons Attribution 3.0 Unported License'
   s.author       = { "Claire Jingwen Xiong" => "jingwen.xiong@gmail.com" }
-  s.source       = { :git => "https://github.com/clairebear/MultiRowCalloutAnnotationView.git", commit: "480ae67054cbbb1574fb90aaae7cf5123d61357f" }
+  s.source       = { :git => "https://github.com/clairebear/MultiRowCalloutAnnotationView.git", commit: "8fa272c0b70d7f054121fb8db33b53816895d0f2" }
   s.platform     = :ios, '5.0'
   s.source_files = 'MultiRowCalloutAnnotationView'
   s.exclude_files = 'Classes/Exclude'
