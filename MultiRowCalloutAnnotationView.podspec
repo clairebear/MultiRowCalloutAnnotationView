@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = { "Claire Jingwen Xiong" => "jingwen.xiong@gmail.com" }
   s.source       = { :git => "https://github.com/clairebear/MultiRowCalloutAnnotationView.git", commit: "18917578bbaa853ab15adb652c0f8b09fd1947bd" }
   s.platform     = :ios, '5.0'
-  s.source_files = 'MultiRowCalloutAnnotationView/*'
+  s.source_files = 'MultiRowCalloutAnnotationView/MultiRowCalloutAnnotationView/*'
   s.exclude_files = 'Classes/Exclude'
   s.frameworks = 'MapKit', 'QuartzCore'
   s.requires_arc = false
